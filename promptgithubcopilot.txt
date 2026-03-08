@@ -1,1 +1,38 @@
 
+Build a Python script using Flask that
+implements user authentication. Include routes for user
+registration, login, and logout. Store user data in an
+SQLite database, hashing passwords securely using the
+bcrypt library
+
+
+Write a beginner’s study guide for Java. It should have
+core concepts, examples, and practice questions.
+Write a checklist about JavaScript. Make it as practical
+as possible.
+Analyze this function and suggest code blocks that can
+be extracted into separate methods to improve
+readability.
+Refactor this method to ensure it follows the Single
+Responsibility Principle by extracting code snippets into
+new methods.
+
+Identify unused functions in this codebase.
+Highlight variables that are declared but never used.
+Suggest refactoring opportunities to remove dead code
+
+Generate integration
+tests for the get_weather method in the
+WeatherService class. Use the unittest
+framework and mock the requests.get method to
+simulate different API responses, including successful
+data retrieval, HTTP errors, and invalid JSON
+responses.
+
+
+Refactor this OrderManager class following SOLID principles,
+implement proper error handling, add dependency injection. Also identify and separate
+classes into separate files.
+Generate comprehensive unit tests for Order Service class
+including ProcessOrderAsync method using xUnit, use Moq for mocking and create
+these tests in a separate testing project.
