@@ -36,3 +36,9 @@ classes into separate files.
 Generate comprehensive unit tests for Order Service class
 including ProcessOrderAsync method using xUnit, use Moq for mocking and create
 these tests in a separate testing project.
+
+
+Create a comprehensive code review checklist for the
+OrderManager project that can also cover security and performance related issues
+
+
